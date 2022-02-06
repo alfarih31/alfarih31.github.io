@@ -1,0 +1,50 @@
+---
+---
+
+// Color Palette
+$color-0: #fbfbfb;
+$color-1: #f8f8ff;
+$color-2: #dfdfe5;
+$color-3: #acacac;
+$color-4: #868686;
+$color-5: #181819;
+
+@page {
+  size: auto;
+  margin: 0;
+}
+
+table {
+  margin: auto;
+  width: 100%;
+
+  thead {
+    tr {
+      th {
+        font-weight: normal;
+      }
+    }
+  }
+}
+
+.footer {
+  position: static;
+  width: 100vw;
+  top: 0;
+  left: 0;
+
+  &__nav-link {
+    text-decoration: none;
+    font-weight: 500;
+
+    &:hover {
+      color: $color-4 !important;
+    }
+  }
+
+  &-copyright {
+    font-weight: 300;
+    color: gray;
+    font-size: small;
+  }
+}

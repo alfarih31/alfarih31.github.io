@@ -1,0 +1,8 @@
+title: Alfarih Pages
+email: alfarihfz@gmail.com
+baseurl: "/"
+url: "https://alfarih31.github.io"
+github_username: alfarih31
+markdown: kramdown
+gems:
+  - jekyll-pdf
