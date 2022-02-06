@@ -10,8 +10,6 @@ title: Résumé
 | Tangerang Selatan, Indonesia | <img src="https://img.icons8.com/ios/24/000000/birth-date.png"/> 31 October 1997 |
 | <img src="https://img.icons8.com/color/24/000000/linkedin.png"/> [Alfarih Faza](https://www.linkedin.com/in/alfarih.faza) | <img src="https://img.icons8.com/material-outlined/24/000000/github.png"/> [alfarih31.github.io](https://alfarih31.github.io) |
 
----  ---
-
 ## Experiences
 
 ### 1. Replus ([replus.co](https://replus.co)) - Software Engineer
