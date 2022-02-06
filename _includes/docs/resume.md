@@ -11,7 +11,7 @@
 
 ## Summary
 
-Alfarih currently work at RCTI+ as Supervisor Software Engineer. At RCTI+. He gaining ideas of the team and the product owner with his experiences & knowledges in software engineering to improve or develop a product. He'd like to talk about the best practice the development of an aplication & love to perceive it. During spare time, he read books about programming & technology or watch video about them.
+Alfarih currently work at RCTI+ as Supervisor Software Engineer. At RCTI+, he gaining ideas of the team and the product owner with his experiences & knowledges in software engineering to improve and develop the product. He'd like to talk about best practices of application development & love to perceive it. During spare time, he read books about programming & technology or watch video about them.
 
 &ensp;
 
@@ -43,7 +43,7 @@ Achievements/Tasks:
 
 *07/2020 - 09/2021*
 
-A company with SaaS as their main product to maintain and develop client business needs
+A company with SaaS as their main products by maintain or develop them as client business needs
 
 Achievements/Tasks
 
