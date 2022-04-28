@@ -74,7 +74,7 @@ NBS clients whom engaged in the field of property sales. They need a site to con
 
 Achievement/Tasks:
 
-- Build Pashouses website's using `React`
+- Build Pashouses website's using `React` with `Material UI` as the design framework
 
 ##### Howel and Co Websites & CMS's ([howelandco.com](https://www.howelandco.com))
 
@@ -84,8 +84,8 @@ NBS clients whom engaged in fields of online marketplace whose products are Gift
 
 Achivement/Tasks:
 
-- Build CMS & Website using `React`
-- Build Backend using `Typescript`
+- Build CMS & Website using `React` with `Bootstrap` as the design framework
+- Build Backend using `Typescript` and serve by `REST API` using `Express`
 
 ### PT. Invocore Teknologi Nusantara - Software Engineer
 
@@ -106,7 +106,7 @@ Growing startup in an energy management field funded by `University of Indonesia
 
 Achievements/Tasks:
 - Develop an API for PWA application and IoT device using `Python` & `Node.Js`
-- Build and maintain server on cloud service `(Google Cloud Project)` for production service and create Continuous Integration/Continuous Deplyoment `(CI/CD)` using `CircleCI` and integrated to Git
+- Build and maintain server on cloud service (`Google Cloud Project`) for production service and create Continuous Integration/Continuous Deplyoment (`CI/CD`) using `CircleCI` and integrated to Git
 - Build a Native App for the IoT device user controlling it using `Flutter` with `Dart` programming language
 
 &ensp;
