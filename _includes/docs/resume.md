@@ -6,12 +6,11 @@
 <h6><img src="https://img.icons8.com/color/24/000000/linkedin.png"/><a href="https://www.linkedin.com/in/alfarih-faza/" target="_blank">Alfarih Faza</a></h6>
 </center>
 
-
 &ensp;
 
 ## Summary
 
-Engineer with over 4 years of experiences applying AI, IoT, and cloud technologies to systems. Able to working individually or working in teams. Currently work at RCTI+ as Supervisor Software Engineer. At RCTI+, he gaining ideas of the team and the product owner with his experiences & knowledges in software engineering to improve and develop the product. He'd like to talk about best practices of application development & love to perceive it. During spare time, he read books about programming & technology or watch video about them.
+Engineer with over 4 years of experiences applying AI, IoT, and cloud technologies to systems. Able to working individually or working in teams. He gaining ideas of the team and the product owner with his experiences & knowledges in software engineering to improve and develop the product. He'd like to talk about best practices of application development & love to perceive it. During spare time, he read books about programming & technology or watch video about them.
 
 &ensp;
 

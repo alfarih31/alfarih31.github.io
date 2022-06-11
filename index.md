@@ -14,3 +14,4 @@ layout: default
 | Go | [Noob Go Keyvalue](https://github.com/alfarih31/nb-go-keyvalue) | Utility to working with `map` | Ready |
 | Go | [GG Bflow](https://github.com/alfarih31/gg-bflow) | Protocol-like using gRPC to stream buffers | Development |
 | Go | [GCV Stream](https://github.com/alfarih31/gcv-stream) | Simple application for stream your camera to Net! by utilizing [GG Bflow](https://github.com/alfarih31/gg-bflow) | Development |
+| Typescript | [Sveltekit - auth0 SSR integration](https://github.com/alfarih31/sveltekit-auth0-ssr-integration) | Example application of integrating auth0 with Sveltekit by a SSR integration  | Ready |
