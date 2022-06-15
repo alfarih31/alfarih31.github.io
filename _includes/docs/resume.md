@@ -2,7 +2,7 @@
 <h2>Alfarih Faza</h2>
 <h6>alfarihfz@gmail.com, +62-856-950-10075</h6>
 <h6>Tangerang Selatan, Indonesia</h6>
-<h6><img src="https://img.icons8.com/material-outlined/24/000000/github.png"/><a href="https://alfarih31.github.io" target="_blank">alfarih31.github.io</a></h6>
+<h6><img src="https://img.icons8.com/material-outlined/24/000000/github.png"/><a href="https://github.com/alfarih31" target="_blank">alfarih31</a> / <a href="https://alfarih31.github.io/" target="_blank">alfarih31.github.io</a></h6>
 <h6><img src="https://img.icons8.com/color/24/000000/linkedin.png"/><a href="https://www.linkedin.com/in/alfarih-faza/" target="_blank">Alfarih Faza</a></h6>
 </center>
 
