@@ -10,7 +10,7 @@
 
 ## Summary
 
-Engineer with over 4 years of experiences applying AI, IoT, and cloud technologies to systems. Able to working individually or working in teams. He gaining ideas of the team and the product owner with his experiences & knowledges in software engineering to improve and develop the product. He'd like to talk about best practices of application development & love to perceive it. During spare time, he read books about programming & technology or watch video about them.
+I am software engineer with over 4 years of experience as fullstack web developer & back-end developer on various technology industries. I able to working individually or working in teams. I gaining ideas for the team and the product owner with my experiences & knowledges in software engineering to improve and develop a product. I'd like to talk about best practices of application development & love to perceive it. During spare time, I read books about programming & technology or watch video about them.
 
 &ensp;
 
@@ -35,9 +35,9 @@ An RCTI+ products which serve AOD (Audio on demand) as their main focus. It enab
 
 Achievements/Tasks:
 
-- Rewrite its backend which written in `Python` & `Typescript` to `Golang` to improve performance
-- Rewrite its CMS which written in `PHP` to `NextJS` & `React` to fix security issues
-- Adjust databases schema structures & migrate the data to improve performance
+- Rewrite its backend which had written in `Python` & `Typescript` to `Golang` to improve performance
+- Rewrite its CMS which had written in `PHP` to `NextJS` & `React` to fix security issues
+- Adjust `MySQL` database schema structures to improve performance & conduct the migration
 - Responsible to containerize the application using `Docker` and ship by CI/CD in Gitlab to Kubernetes platform
 
 ##### HOT+ ([hot.rctiplus.com](https://hot.rctiplus.com))
@@ -48,7 +48,7 @@ An RCTI+ products which enables peoples to publish and compete their creativity 
 
 Achivement/Tasks:
 
-- Involved with engineer teams to refactor its backend by refactore the design pattern & architecture because the current source code which written in `Golang` doesn't written well & hard to maintained
+- Involved with engineer teams to refactor its backend by refactor the design pattern & architecture because the current source code which had written in `Golang` doesn't written well & hard to maintain
 - Responsible to containerize the application by `Docker`
 
 ### CV. Nusantara Beta Studio ([nbs.co.id](https://nbs.co.id/)) - Senior Web Developer
@@ -62,7 +62,7 @@ Achievements/Tasks:
 - Collaborate with developer teams to build an application
 - Involved in Agile-Scrum process on project
 - Build a backend codebase using `TypeScript` to maintain team's code quality
-- Enhance personal & team knowledge of `React` development
+- Enhance personal & team knowledge of `ReactJS` development
 - Involved in many NBS client projects by utilized many languages such `Typescript`, `PHP`, `Node.Js`, `Golang`, & `Python`. Also utilized many tools such as `Git`, `Docker`, & `CI/CD platform`
 
 ##### Pashouses Website's ([pashouses.id](https://pashouses.id))
@@ -73,7 +73,7 @@ NBS clients whom engaged in the field of property sales. They need a site to con
 
 Achievement/Tasks:
 
-- Build Pashouses website's using `React` with `Material UI` as the design framework
+- Build Pashouses website's using `ReactJS` with `Material UI` as the design framework
 
 ##### Howel and Co Websites & CMS's ([howelandco.com](https://www.howelandco.com))
 
@@ -83,8 +83,8 @@ NBS clients whom engaged in fields of online marketplace whose products are Gift
 
 Achivement/Tasks:
 
-- Build CMS & Website using `React` with `Bootstrap` as the design framework
-- Build Backend using `Typescript` and serve by `REST API` using `Express`
+- Build CMS & Website using `ReactJS` with `Bootstrap` as the design framework
+- Build Backend using `Typescript` and serve by `REST API` using `Express` & `PostgreSQL` database
 
 ### PT. Invocore Teknologi Nusantara - Software Engineer
 
@@ -93,9 +93,9 @@ Achivement/Tasks:
 A geodesy service company with UAV as their main tools & also main products
 
 Achievements/Tasks:
+- Create pipeline for data acquisition of LIDAR surver to the Ground Control Station by integrating hardware to software by `ROS` (Robot Operating System), `Python`, `C++`, & `TCP` connection
 - Process data from LIDAR survey by UAV for land surveys and mapping by handmade program or outsourced from many git projects
-- Create an end-to-end application for production use using `Python` for backend (serving & processing) and `Node.Js` for frontend as Ground Control System Interface & Remote Data Acquisition System Interface using `React` framework
-- Integrate hardware to software in roboting environment using `ROS` (Robot Operating System) framework by `C++` & `Python`
+- Create an end-to-end application for production use using `Python` for backend (serving & processing) and `Node.Js` to build the Ground Control Station System & the Remote Data Acquisition System. Both has a User Interface and were done by `ReactJS` framework and `ElectronJS`
 
 ### Replus ([replus.co](https://replus.co)) - Software Engineer
 
@@ -106,7 +106,7 @@ Growing startup in an energy management field funded by `University of Indonesia
 Achievements/Tasks:
 - Develop an API for PWA application and IoT device using `Python` & `Node.Js`
 - Build and maintain server on cloud service (`Google Cloud Project`) for production service and create Continuous Integration/Continuous Deplyoment (`CI/CD`) using `CircleCI` and integrated to Git
-- Build a Native App for the IoT device user controlling it using `Flutter` with `Dart` programming language
+- Build a Native App for the IoT device controllers using `Flutter` with `Dart` programming language
 
 &ensp;
 
@@ -123,12 +123,12 @@ Achievements/Tasks:
 
 ## Skills
 
-|  `Proficient with PERN Stack Web Development`    |                                    |
+|  `Proficient with PERN Stack Web Development`    | `Back-end development (REST API, gRPC, message broker, databases SQL & NoSQL)`                                   |
 | :----------------------------------------------: | :--------------------------------: |
 | `Proficient with TypeScript`                     | `Proficient with Golang`           |
 | `Proficient with Node.Js`                         | `Proficient with Python`           |
 | `Familiar with CI/CD`                            | `Familiar with C++`                |
-| `Familiar with Dart`                             | `Knowledge in AI Related Field`    |
+| `Familiar with Dart`                             | `Knowledge in AI Related Field & its pipelines`    |
 | Tools: `Unix/Linux, Git, Docker, IntelliJ, VSCode`                                    |
 
 
