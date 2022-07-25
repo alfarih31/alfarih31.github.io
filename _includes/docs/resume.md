@@ -93,7 +93,7 @@ Achivement/Tasks:
 A geodesy service company with UAV as their main tools & also main products
 
 Achievements/Tasks:
-- Create pipeline for data acquisition of LIDAR surver to the Ground Control Station by integrating hardware to software by `ROS` (Robot Operating System), `Python`, `C++`, & `TCP` connection
+- Create pipeline for data acquisition of LIDAR survey to the Ground Control Station by integrating hardware to software by `ROS` (Robot Operating System), `Python`, `C++`, & `TCP` connection
 - Process data from LIDAR survey by UAV for land surveys and mapping by handmade program or outsourced from many git projects
 - Create an end-to-end application for production use using `Python` for backend (serving & processing) and `Node.Js` to build the Ground Control Station System & the Remote Data Acquisition System. Both has a User Interface and were done by `ReactJS` framework and `ElectronJS`
 
