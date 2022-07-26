@@ -18,4 +18,4 @@ layout: default
 | Typescript | [DB Migration Template](https://github.com/alfarih31/db-migration-tmplt) | A template for DB (SQL/NoSQL) migration | Ready |
 | NextJS | [Material UI Dashboard by NextJS](https://gitlab.com/Noob-Tech/codebase/material-ui-dashboard-nextts) | Template to build a Material UI Dashboard by NextJS (`Typescript`) | Ready
 | Svelte | [Material UI Dashboard by SvelteKit ](https://gitlab.com/Noob-Tech/codebase/material-dashboard-sveltekit) | Template to build a Material UI Dashboard by Svelte | Ready
-| Typescript | [REST API codebase](https://gitlab.com/Noob-Tech/codebase/backend-ts) | A codebase to build REST API by `Typescript`. It already has `Logger`, `Validator` (use `Joi`), `Response templating`, practical to used by `Clean arch`, & etc  | Ready
+| Typescript | [REST API codebase](https://gitlab.com/Noob-Tech/codebase/Back-End-ts) | A codebase to build REST API by `Typescript`. It already has `Logger`, `Validator` (use `Joi`), `Response templating`, practical to used by `Clean arch`, & etc  | Ready
