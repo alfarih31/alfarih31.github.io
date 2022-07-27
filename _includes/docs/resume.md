@@ -1,7 +1,21 @@
 
-| <span style="font-weight: bolder;font-size: xxx-large;">Alfarih Faza</span> <span style="font-weight: 300;font-size: large;margin-top:0;">Software Engineer </span> <br> I am software engineer with over 4 years of experience as fullstack web developer on various technology industries. I am not limiting myself to a single programming language or framework. I proficients with Python, Node.Js, Typescript, & Golang. I able to working individually or working in teams. I conceptualize ideas for the team and the product owner with my experiences & knowledges in software engineering to improve and develop a product | <span>(+62) 85695010075 </span> <a href="mailto:alfarihfz@gmail.com" target="_blank">alfarihfz@gmail.com</a> <a href="https://www.linkedin.com/in/alfarih-faza/" target="_blank">linkedin.com/in/alfarih-faza</a> <a href="https://github.com/alfarih31" target="_blank">github.com/alfarih31</a> <a href="https://alfarih31.github.io/" target="_blank">http://alfarih31.github.io</a> |
-| -- | -- |
-|  | |
+<div style="display:flex">
+    <div style="width:50%;display:flex;flex-direction:column">
+        <span style="font-weight: bolder;font-size: xxx-large;">Alfarih Faza</span>
+        <span style="font-weight: 300;font-size: large;margin-top:0;">Software Engineer </span>
+        <br>
+        <span>
+            I am software engineer with over 4 years of experience as fullstack web developer on various technology industries. I am not limiting myself to a single programming language or framework. I proficients with Python, Node.Js, Typescript, & Golang. I able to working individually or working in teams. I conceptualize ideas for the team and the product owner with my experiences & knowledges in software engineering to improve and develop a product
+        </span>
+    </div>
+    <div style="width:50%;display:flex;flex-direction:column;align-items:flex-end">
+        <span>(+62) 85695010075</span>
+        <a href="mailto:alfarihfz@gmail.com" target="_blank" style="margin-top:0.5rem">alfarihfz@gmail.com</a>
+        <a href="https://www.linkedin.com/in/alfarih-faza/" target="_blank" style="margin-top:0.5rem">linkedin.com/in/alfarih-faza</a>
+        <a href="https://github.com/alfarih31" target="_blank" style="margin-top:0.5rem">github.com/alfarih31</a>
+        <a href="https://alfarih31.github.io/" target="_blank" style="margin-top:0.5rem">http://alfarih31.github.io</a>
+    </div>
+</div>
 
 &ensp;
 ### Experiences
