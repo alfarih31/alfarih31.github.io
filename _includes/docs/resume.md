@@ -68,7 +68,7 @@ Achievement/Tasks:
 
 *08/2020 - 09/2021*
 
-NBS clients who selling gifts souvenir such towel, sleepwear, prayer equipments, etc. They needs a website to sale their products also as a place for their transactions to improve thir profitability
+NBS clients who selling gifts souvenir such towel, sleepwear, prayer equipments, etc. They needs a website to sale their products also as a place for their transactions to improve their profitability
 
 Achivement/Tasks:
 
