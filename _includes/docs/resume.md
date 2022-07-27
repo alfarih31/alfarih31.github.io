@@ -62,7 +62,7 @@ NBS clients who engaged in the field of property sales. They need a website for 
 
 Achievement/Tasks:
 
-- Directed the development of Pashouses website's using `React.js` with `Material UI` as the design framework
+- Directed the development of Pashouses's website & CMS using `React.js` with `Material UI` as the design framework
 
 ##### - Howel and Co Websites & CMS's ([howelandco.com](https://www.howelandco.com))
 
@@ -89,7 +89,7 @@ Achievements/Tasks:
 
 *02/2018 - 05/2019*
 
-Participated in a Start-up company as Back-End developer for Start-up equity and helping college friends to build a company whom funded by `University of Indonesia Directorate of Inovation and Science Techno Park`. Developed an API for the PWA application and IoT device using `Python`, `Node.Js`, `Express.js`, `MQTT`, & etc. Maintained the application on cloud service (`Google Cloud Project`) and implemented Continuous Integration/Continuous Deplyoment (`CI/CD`) using `CircleCI`. Collaborated with teams by `Git`. Directed development for the mobile application using `Flutter`
+Participated in a Start-up company as Back-End developer for Start-up equity and helping college friends to build a company whom funded by `University of Indonesia Directorate of Inovation and Science Techno Park`. Developed an API for the PWA application and IoT device using `Python`, `Node.Js`, `Express.js`, `MQTT`, & etc. Maintained the application on cloud service (`Google Cloud Project`) and implemented Continuous Integration/Continuous Deployment (`CI/CD`) using `CircleCI`. Collaborated with teams by `Git`. Directed development for the mobile application using `Flutter`
 
 &ensp;
 
