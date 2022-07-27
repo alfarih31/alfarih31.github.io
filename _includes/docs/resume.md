@@ -34,7 +34,7 @@ AOD (Audio on demand) as the main content by enabling radio broadcasters & podca
 
 Achievements/Tasks:
 
-- Direct a redesign process of the Back-End architecture & design pattern consists of the API & the Databases to fix the performance issues, data inconsistency, & security issues. The whole API had re-written from `Python` & `Typescript` to `Golang` using `Clean Architecture`, `Repository Pattern`, `gRPC`, `GORM`, `Gin`, & etc. The `MySQL` database schema migrated to the new database structures using `Node.Js` with `Sequelize`
+- Direct a redesign process of the Back-End architecture & design pattern consists of the API & the Databases to fix the performance issues, data inconsistency, & security issues. The whole API had re-written from `Python` & `Typescript` to `Golang` using `Clean Architecture`, `Repository Pattern`, `gRPC`, `GORM`, `Gin`, & etc. The CMS also re-written from `PHP` to `Next.Js` and the `MySQL` database schema migrated to the new database structures using `Node.Js` with `Sequelize`
 - Prepare the containerization of the application using `Docker` and deliver by CI/CD in Gitlab to `Kubernetes` platform
 
 ##### - HOT+ ([hot.rctiplus.com](https://hot.rctiplus.com))
