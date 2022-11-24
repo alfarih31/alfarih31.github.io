@@ -20,15 +20,19 @@
 &ensp;
 ### Experiences
 
+#### Nomura Research Insitute Indonesia (NRI Indonesia) - Backend Engineer
+
+*09/2022 - Present*
+
 #### RCTI+ (PT. MNC Digital) - Supervisor Software Engineer
 
-*09/2021 - Present*
+*09/2021 - 09/2022*
 
 Lead teams consists of Back-End developer & Front-End developer to maintain an entertainment application with FTA TV, AOD, & VOD as the main contents. Using `Golang`, `Python`, `Typescript`, `Node.Js`, `gRPC`, `React.js`, `Next.js`, & etc
 
 ##### - ROOV ([roov.id](https://www.roov.id))
 
-*11/2021 - Present*
+*11/2021 - 09/2022*
 
 AOD (Audio on demand) as the main content by enabling radio broadcasters & podcast streamers broadcasted to many users through this platform
 

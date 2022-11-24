@@ -1,3 +1,3 @@
 ### About
 
-Alfarih currently work at RCTI+ as Supervisor Software Engineer. At RCTI+, he gaining ideas of the team and the product owner with his experiences & knowledges in software engineering to improve and develop the best product. He'd like to talk about best practices of application development & love to perceive it. During spare time, he read books about programming & technology or watch video about them.
+I currently working at Nomura Research Insitute Indonesia (NRI Indonesia) as Backend Engineer. As backend engineer, I gaining ideas of the team and the product owner with my experiences & knowledges in software engineering to improve and develop the best product. I'd like to talk about best practices of application development & love to perceive it. During my spare time, I read books about programming & technology or watch video about them.
