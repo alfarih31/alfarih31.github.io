@@ -5,7 +5,7 @@
         <span style="font-weight: 300;font-size: large;margin-top:0;">Software Engineer </span>
         <br>
         <span>
-            I am software engineer with over 4 years of experience as fullstack web developer on various technology industries. I am not limiting myself to a single programming language or framework. I proficients with Python, Node.Js, Typescript, & Golang. I able to working individually or working in teams. I conceptualize ideas for the team and the product owner with my experiences & knowledges in software engineering to improve and develop a product
+            I am a software engineer with over 5 YoE as Fullstack Web Developer on various technology industries. I am not limiting myself to a single programming language or framework. I'd like to talk and read about software designs & patterns. I proficient with Python, Node.Js, Typescript, & Golang. I able to work individually or working in teams. I conceptualize ideas for the team and the product owner with my experiences & knowledges in software engineering to improve and develop a product.
         </span>
     </div>
     <div style="width:50%;display:flex;flex-direction:column;align-items:flex-end">
@@ -23,6 +23,15 @@
 #### Nomura Research Institute Indonesia (NRI Indonesia) - Backend Engineer
 
 *09/2022 - Present*
+
+A Business Consultant companies with Software as a Service (SaaS) as one of their services. Digital Transformation and software development are their experts. Their clients such as Manufacture Companies, Finance Companies, and F & B Companies.
+
+Achievements/Tasks:
+
+- Maintained an Internal Online Recruitment Application using `Typescript`, `GraphQL`, `Awilix (Dependency Injection Container)` and serverless framework `AWS Lambda`. Key contributions include developing new features for Dynamic Recruitment Process while keep maintain the current running applications by versioning the applications.
+- Developed an Internal Employee Attendance Application using `Nest.Js`, `Typescript`, and `Amazon Elastic Container Service (Amazon ECS)`. Key contributions include developing the REST API and the deployment. The REST API was built with `Domain Driven Design (DDD)` as the software design and `Command-Query Responsibility Segregation (CQRS)` as the software pattern. The application was deployed to `ECS`.
+- Developed an Internal Employee Leave Request Application as Proof of Concept (PoC) Application of `Java Spring Boot`. The PoC used to gain knowledge of the backend teams to adopt a new framework. The PoC tells about RBAC Authentication, JWT Authentication, RDBMS with ORM, CI/CD, Firebase Push Notifications, interaction with `AWS SDK` (`S3`, `Lambda`, and `ECS`), and unit testing.
+- Developed a Drawing Tools Application for Japanese Smart Construction Companies as Collaborated projects with NRI Japan. Using `Typescript` and `Nest.Js`. Key contributions include developing the REST API and the database designs.
 
 #### RCTI+ (PT. MNC Digital) - Supervisor Software Engineer
 
@@ -56,7 +65,7 @@ Achivement/Tasks:
 
 *07/2020 - 09/2021*
 
-A SaaS company on various clients & various technology industries. Hired as Web Developer to develop their projects using `Node.Js`, `React.js`, `Typescript`, `Golang`, `Python`, & etc. Introduced the teams knowledge of `React.js` development by create codebases to instantiate the development process boilerplate of the teams for every `React.js` projects. Collaborated with the teams using `Git`, `Docker`, & `CI/CD`.
+A Software as a Service (SaaS) company on various clients & various technology industries. Hired as Web Developer to develop their projects using `Node.Js`, `React.js`, `Typescript`, `Golang`, `Python`, & etc. Introduced the teams knowledge of `React.js` development by create codebases to instantiate the development process boilerplate of the teams for every `React.js` projects. Collaborated with the teams using `Git`, `Docker`, & `CI/CD`.
 
 ##### - Pashouses Website's ([pashouses.id](https://pashouses.id))
 
@@ -108,10 +117,17 @@ Participated in a Start-up company as Back-End developer for Start-up equity and
 
 &ensp;
 
+### Certifications
+
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/8d89e24a-d230-44db-8a5f-7509fdd8f0d2/linked_in_profile) \| *Amazon Web Services Training and Certification* \| May, 2023
+
+&ensp;
+
 ### Skills
 
-- `Programming Languages`: Python, Node.Js, TypeScript, Golang
-- `Frameworks`: React.js, Next.js, Svelte, Express.js
+- `Software Designs & Patterns`: Clean Architecture, MVC, DDD, ES-CQRS
+- `Programming Languages`: Python, Node.Js, TypeScript, Golang, Java
+- `Frameworks`: React.js, Next.js, Svelte, Express.js, Nest.Js, Java Spring Boot
 - `Technologies`: REST API, gRPC, MQTT, PostgreSQL, MYSQL
 - `Tools`: Unix/Linux, Git, Docker, GORM, Sequelize, IntelliJ
 
