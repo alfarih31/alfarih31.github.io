@@ -3,10 +3,6 @@
     <div style="width:50%;display:flex;flex-direction:column">
         <span style="font-weight: bolder;font-size: xxx-large;">Alfarih Faza</span>
         <span style="font-weight: 300;font-size: large;margin-top:0;">Software Engineer </span>
-        <br>
-        <span>
-            I am a software engineer with over 5 YoE as Fullstack Web Developer on various technology industries. I am not limiting myself to a single programming language or framework. I'd like to talk and read about software designs & patterns. I proficient with Python, Node.Js, Typescript, & Golang. I able to work individually or working in teams. I conceptualize ideas for the team and the product owner with my experiences & knowledges in software engineering to improve and develop a product.
-        </span>
     </div>
     <div style="width:50%;display:flex;flex-direction:column;align-items:flex-end">
         <span>(+62) 85695010075</span>
@@ -16,13 +12,15 @@
         <a href="https://alfarih31.github.io/" target="_blank" style="margin-top:0.5rem">http://alfarih31.github.io</a>
     </div>
 </div>
-
 &ensp;
+<p>
+    I am a software engineer with over 5 YoE as Fullstack Web Developer on various technology industries. I am not limiting myself to a single programming language or framework. I'd like to talk and read about software designs & patterns. I proficient with Python, Node.Js, Typescript, & Golang. I able to work individually or working in teams. I conceptualize ideas for the team and the product owner with my experiences & knowledges in software engineering to improve and develop a product.
+</p>
 ### Experiences
 
 #### Nomura Research Institute Indonesia (NRI Indonesia) - Backend Engineer
 
-*09/2022 - Present*
+*09/2022 - 08/2023*
 
 A Business Consultant companies with Software as a Service (SaaS) as one of their services. Digital Transformation and software development are their experts. Their clients such as Manufacture Companies, Finance Companies, and F & B Companies.
 
