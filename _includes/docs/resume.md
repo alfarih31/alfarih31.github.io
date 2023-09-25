@@ -131,6 +131,14 @@ Participated in a Start-up company as Back-End developer for Start-up equity and
 
 &ensp;
 
+### Publications
+
+- [2020 - Fast and accurate detection of Covid-19-related pneumonia from chest X-ray images with novel deep learning model](https://arxiv.org/pdf/2005.04562)
+- [2020 - Stroke severity classification based on EEG signals using 1D convolutional neural network](https://iopscience.iop.org/article/10.1088/1742-6596/1528/1/012006/pdf)
+- [2020 - Implementation of single shot detector for object finding in drone platform](https://iopscience.iop.org/article/10.1088/1742-6596/1528/1/012005/pdf)
+
+&ensp;
+
 ### Personal Projects
 
 #### - Autonomous flight UAV
