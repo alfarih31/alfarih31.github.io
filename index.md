@@ -19,3 +19,5 @@ layout: default
 | NextJS | [Material UI Dashboard by NextJS](https://gitlab.com/Noob-Tech/codebase/material-ui-dashboard-nextts) | Template to build a Material UI Dashboard by NextJS (`Typescript`) | Ready
 | Svelte | [Material UI Dashboard by SvelteKit ](https://gitlab.com/Noob-Tech/codebase/material-dashboard-sveltekit) | Template to build a Material UI Dashboard by Svelte | Ready
 | Typescript | [REST API codebase](https://gitlab.com/Noob-Tech/codebase/Back-End-ts) | A codebase to build REST API by `Typescript`. It already has `Logger`, `Validator` (use `Joi`), `Response templating`, practical to used by `Clean arch`, & etc  | Ready
+| Python | [DIHub](https://github.com/alfarih31/dihub) | A dependecy injection & IoC frameworks for Python | Ready
+| Python | [DIHub-CQRS](https://github.com/alfarih31/dihub-cqrs) | DIHub CQRS module | Ready
