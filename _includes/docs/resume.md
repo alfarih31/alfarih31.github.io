@@ -166,4 +166,4 @@ Achievements/Tasks:
 ### Languages
 
 - `Indonesia` - Native or Bilingual Proficiency
-- `English` - Profession Working Proficiency
+- `English` - Professional Working Proficiency
